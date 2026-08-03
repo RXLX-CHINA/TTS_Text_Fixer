@@ -18,6 +18,10 @@
 帮助您快速、准确地预处理文本，极大提升 TTS 的发音准确率。
 
 ---
+## 介绍视频
+https://www.bilibili.com/video/BV1MpMR6xEs7
+
+---
 
 ## ✨ 功能特性
 
